@@ -1,8 +1,8 @@
 {% set name = "Yapsy" %}
-{% set version = "1.11.223" %}
+{% set version = "1.12.0" %}
 {% set file_ext = "tar.gz" %}
 {% set hash_type = "sha256" %}
-{% set hash_value = "45bb39a72461913388d7f3e92ce33816e84fff59946c45e16796eb1fb1d5f2a6" %}
+{% set hash_value = "f08cb229a96f14cc0b1d4b68cb7c111d1020ab8c3989b426d3aa39b82d6a3e3c" %}
 
 package:
   name: '{{ name|lower }}'
