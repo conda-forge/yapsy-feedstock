@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About yapsy
 ===========
 
@@ -18,8 +14,15 @@ Yapsy is a small library implementing the core mechanisms needed to build a plug
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/yapsy-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/yapsy-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=4436&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/yapsy-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
